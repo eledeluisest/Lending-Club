@@ -11,7 +11,7 @@ import numpy as np
 
 # In[4]:
 
-data_csv = pd.read_csv('C:/Users/luis_/Desktop/Practicas UTAD/Preparacion Datos Python/lending-club-loan-data/loan.csv',low_memory=False)
+data_csv = pd.read_csv('loan.csv',low_memory=False)
 
 
 # # Preparacion de datos
